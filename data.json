@@ -1,0 +1,68 @@
+[
+    {
+        "companyName":"Facebook",
+         "post":"Front-End Engineer",
+         "type":"Remote",
+        "city":"Jakarta",
+        "country":"Indonesia",
+        "stipend":{
+            "from":600,
+            "to": 1200,
+            "per":"Month"
+        },
+        "jobDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "companyName":"Google",
+         "post":"Front-End Engineer",
+         "type":"Remote",
+        "city":"Jakarta",
+        "country":"Indonesia",
+        "stipend":{
+            "from":600,
+            "to": 1200,
+            "per":"Month"
+        },
+        "jobDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "companyName":"Discord",
+         "post":"Front-End Engineer",
+         "type":"Remote",
+        "city":"Jakarta",
+        "country":"Indonesia",
+        "stipend":{
+            "from":600,
+            "to": 1200,
+            "per":"Month"
+        },
+        "jobDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "companyName":"Slack",
+         "post":"Front-End Engineer",
+         "type":"Remote",
+        "city":"Jakarta",
+        "country":"Indonesia",
+        "stipend":{
+            "from":600,
+            "to": 1200,
+            "per":"Month"
+        },
+        "jobDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "companyName":"HSS Info",
+         "post":"Front-End Engineer",
+         "type":"Remote",
+        "city":"Jakarta",
+        "country":"Indonesia",
+        "stipend":{
+            "from":600,
+            "to": 1200,
+            "per":"Month"
+        },
+        "jobDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+]
+
